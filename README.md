@@ -5,3 +5,6 @@ Estre script captura todos os nomes, números de episódios e fotos.
 Do site: Puch! Funsubs
 
 requer selenium + Firefox + GeockDriver
+
+utilização------
+python2 "nome do programa"
